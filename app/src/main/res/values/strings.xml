@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YS_mahmoud</string>
+    <string name="baseUrl">http://api.nytimes.com/svc/topstories/v2/</string>
+    <string name="type">.json?</string>
+    <string name="key">api-key=898a6ae4ba754b87bf44f0db778a9aae</string>
+    <string name="refresh">refresh</string>
+    <string name="onInternet">No Internet Connection</string>
+</resources>
